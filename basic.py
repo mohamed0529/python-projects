@@ -1,0 +1,3 @@
+
+print('mohamed ishaq')
+print()
